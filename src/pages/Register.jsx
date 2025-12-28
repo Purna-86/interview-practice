@@ -10,7 +10,7 @@ export default function Register() {
   const navigate = useNavigate();
 
   const register = () => {
-    if (!fullName || !phone || !email || !password) {
+    if (!fullName ||!email || !password) {
       alert("Fill all fields");
       return;
     }
