@@ -14,7 +14,8 @@ const QUESTIONS = {
   aem: [
     "What is Adobe Experience Manager?",
     "Explain AEM architecture",
-    "What are AEM components?"
+    "What are AEM components?",
+    "What is the AEM"
   ],
   java: [
     "What is JVM?",
